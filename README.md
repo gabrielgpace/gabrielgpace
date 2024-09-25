@@ -24,3 +24,9 @@
     <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     
 </div>
+
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/gabrielgpace/gabrielgpace/blob/output/github-contribution-grid-snake.gif)
+
